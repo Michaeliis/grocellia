@@ -15,3 +15,5 @@ User Type
 ***************
 Vectoria was made as a school project
 ***************
+
+Grocellia is made with Code Igniter
