@@ -13,7 +13,7 @@ User Type
 
 
 ***************
-Vectoria was made as a school project
+Grocellia was made as a school project
 ***************
 
 Grocellia was made with Code Igniter
